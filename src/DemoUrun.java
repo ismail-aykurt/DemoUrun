@@ -1,5 +1,4 @@
-//İSMAİL AYKURT
-//220706038
+
 import java.util.Scanner;
 public class DemoUrun {
     private static Urun[] urunListesi;

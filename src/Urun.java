@@ -1,5 +1,4 @@
-//İSMAİL AYKURT
-//220706038
+
 public abstract class Urun {
     private String tur;
     private String marka;
